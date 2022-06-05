@@ -1,0 +1,137 @@
+@media (max-width:1070px){
+    .fix-width {
+        max-width: 965px;
+    }
+    .imgsection .leftside {
+        width: 50%;
+        margin-top: 77px;
+    }
+    .imgsection .rightside {
+        width: 44%;
+    }
+    .contactItem {
+        width: 31%;
+    }
+}
+@media (max-width:1070px){
+    .header .leftLogo {
+        width: 27%;
+    }
+    .header .leftLogo h1 {
+        font-size: 20px;
+    }
+    .header .rightMenu ul li a {
+        padding: 0 9px;
+        font-size: 14px;
+    }
+    .sliderSection {
+        padding: 100px 0;
+    }
+    .slider h1 {
+        font-size: 26px;
+    }
+    .slider h3 {
+        font-size: 15px;
+    }
+    .button {
+        padding: 7px 17px;
+        margin-top: 9px;
+        font-size: 14px;
+    }
+    .serviceItem {
+        width: 22%;
+    }
+    .serviceItem span {
+        font-size: 30px;
+    }
+    .serviceItem h2 {
+        font-size: 19px;
+    }
+    .serviceItem p {
+        font-size: 13px;
+    }
+    .service {
+        padding: 85px 0;
+    }
+    .imgsection {
+        padding: 20px 0;
+    }
+    .imgsection .rightside h2 {
+        font-size: 20px;
+    }
+    .imgsection .rightside p {
+        font-size: 13px;
+    }
+    .contactSection {
+        padding: 44px 0;
+    }
+    .footertop ul li a {
+        font-size: 20px;
+    }
+    .contactItem p {
+        font-size: 14px;
+    }
+    .leftarea p {
+        font-size: 14px;
+    }
+}
+@media (max-width:768px){
+    .header .leftLogo {
+        width: 100%;
+        text-align: center;
+    }
+    .header .rightMenu {
+        width: 100%;
+        text-align: center;
+        margin-top: -17px;
+    }
+    .sliderSection {
+        padding: 70px 0;
+    }
+    .slider h1 {
+        font-size: 22px;
+    }
+    .slider h3 {
+        font-size: 12px;
+    }
+    .button {
+        font-size: 11px;
+    }
+    .aboutsection h2 {
+        font-size: 22px;
+    }
+    .aboutsection p {
+        font-size: 13px;
+    }
+    .serviceItem {
+        width: 45%;
+        margin-bottom: 13px;
+    }
+    .imgTop h2 {
+        font-size: 30px;
+    }
+    .imgTop p {
+        margin: 20px 0;
+    }
+}
+@media (max-width:650px){
+    .imgsection {
+        padding: 20px 10px;
+    }
+    .imgsection .leftside {
+        width: 100%;
+        margin-top: 20px;
+    }
+    .imgsection .rightside {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .contactItem {
+        width: 100%;
+    }
+}
+@media (max-width:576px){
+    .serviceItem {
+        width: 100%;
+    }
+}
